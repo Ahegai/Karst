@@ -1,2 +1,12 @@
 .obsidian/plugins/github-wiki-sync/data.json
+
+# Quartz build output and dependencies
+node_modules/
+public/
+.quartz/
+.quartz-cache/
+
+# Obsidian local configuration
+.obsidian/
+.DS_Store
 .obsidian/plugins/github-wiki-sync/data.json
