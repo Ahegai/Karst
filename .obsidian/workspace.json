@@ -1,0 +1,276 @@
+{
+  "main": {
+    "id": "a71007a6191b4d28",
+    "type": "split",
+    "children": [
+      {
+        "id": "701a43375bdd2f8a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9486e741835cb3a4",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разлом/Лор/Слои/2. Парайсо.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true,
+              "icon": "lucide-file",
+              "title": "2. Парайсо"
+            }
+          },
+          {
+            "id": "9f8f9385dd9ea740",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разлом/Лор/Организации/Делверы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Делверы"
+            }
+          },
+          {
+            "id": "53d4f5be2d910588",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разлом/Лор/Ресурсы Карста/Артефакты/Экзотические/Звёздный компас.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Звёздный компас"
+            }
+          },
+          {
+            "id": "f6c4d2414e988be1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Разлом/Лор/Ресурсы Карста/Артефакты/Экзотические/Тенегийские Кузнечные Руны.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Тенегийские Кузнечные Руны"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "7e636f001ce138fb",
+    "type": "split",
+    "children": [
+      {
+        "id": "934f7baa3b3f0671",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f4d4bb2b309b340",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "byCreatedTimeReverse",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "4ab5cf8243a79f9a",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "Кельката",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "65ee107d7c817bed",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5e9868a3e63b1de8",
+    "type": "split",
+    "children": [
+      {
+        "id": "86c827d89311b084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b514cfd9ed24eb10",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Кроличья лапка.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Кроличья лапка"
+            }
+          },
+          {
+            "id": "942064669b25549b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Кроличья лапка.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Кроличья лапка"
+            }
+          },
+          {
+            "id": "6f8c752c8dceff68",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "da2fa8245d227698",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Все свойства"
+            }
+          },
+          {
+            "id": "f4f4fdc7bae0cc68",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Кроличья лапка.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Кроличья лапка"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "github-wiki-sync:Sync wiki": false,
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "9f8f9385dd9ea740",
+  "lastOpenFiles": [
+    "Wiki/Home.md",
+    "Wiki",
+    "Разлом/Лор/Организации/Кулинарная Академия.md",
+    "Разлом/Лор/Организации/Башня.md",
+    "Разлом/Лор/Организации/Делверы.md",
+    "Разлом/Лор/Механики/Проклятье Карста.md",
+    "Разлом/Лор/Механики/Эфир.md",
+    "Разлом/Лор/Механики/Благословления Карста.md",
+    "Разлом/Лор/Механики/Крафт.md",
+    "Разлом/Лор/Механики/Приготовление еды.md",
+    "Разлом/Лор/Известные Личности/Шеф Гордон.md",
+    "Разлом/Лор/Известные Личности/Глава Башни.md",
+    "Разлом/Лор/Известные Личности/Председатель.md",
+    "Разлом/Лор/Ресурсы Карста/Артефакты/Экзотические/Тенегийские Кузнечные Руны.md",
+    "Разлом/Лор/Слои/9. Фуенте.md",
+    "Разлом/Лор/Слои/2. Парайсо.md",
+    "Разлом/Лор/Ресурсы Карста/Еда/Специи/Горная Мята.md",
+    "Разлом/Лор/Ресурсы Карста/Еда/Специи/Каменный шафран.md",
+    "Разлом/Лор/Города/Малая Бискайя.md",
+    "Разлом/Лор/Города/Блуп.md",
+    "Разлом/Лор/Города/Вальден.md",
+    "Разлом/Лор/Города/Кельката.md",
+    "Разлом/Лор/Организации/Ремесленная гильдия.md",
+    "Разлом/Лор/Старый Мир/Династия Алькасар.md",
+    "Разлом/Лор/Старый Мир/Южная Земля.md",
+    "Разлом/Лор/Старый Мир/Железная Империя.md",
+    "Разлом/Лор/Известные Личности/Луис Ваэса де Торрес.md",
+    "Pasted image 20261023172350.png",
+    "Разлом/Лор/Ресурсы Карста/Еда/Специи",
+    "Без названия.base",
+    "Разлом/Лор/Ресурсы Карста/Материалы/Руда",
+    "Pasted image 20261022140234.png",
+    "Разлом/Лор/Руины",
+    "Разлом/Лор/Разумные виды/Дварфы",
+    "Разлом/Лор/Разумные виды/Люди",
+    "Разлом/Лор/Старый Мир",
+    "Разлом/Лор/Разумные виды",
+    "Разлом/Лор/Города"
+  ]
+}
